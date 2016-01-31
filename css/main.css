@@ -23,19 +23,9 @@ body {
   padding: 0;
 }
 
-.blue-section {
-  width: 50%;
+.item {
+  width: 100%;
 }
 
-.st0 {
-  fill: none;
-  stroke: #231F20;
-  stroke-width: 0.8509;
-  stroke-miterlimit: 10;
-}
 
-.st1 {
-  fill: #231F20;
-}
-
-.st2{fill:#603A17;} .st3{opacity:0.45;fill:#FFFFFF;} .st4{fill:#1D76BB;} .st5{fill:none;stroke:#231F20;stroke-width:0.989;stroke-miterlimit:10;} .st6{fill:#FFFFFF;} .st7{fill:#F2F2F2;} .st8{fill:#1D76BB;stroke:#231F20;stroke-width:0.8509;stroke-miterlimit:10;}
+.st0{fill:#231F20;} .st1{fill:#603A17;} .st2{opacity:0.45;fill:#FFFFFF;} .st3{fill:#1D76BB;} .st4{fill:none;stroke:#231F20;stroke-width:0.989;stroke-miterlimit:10;} .st5{fill:none;stroke:#231F20;stroke-width:0.8509;stroke-miterlimit:10;} .st6{fill:#FFFFFF;} .st7{fill:#F2F2F2;} .st8{fill:#1D76BB;stroke:#231F20;stroke-width:0.8509;stroke-miterlimit:10;}
