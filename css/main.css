@@ -30,12 +30,26 @@ body {
   transform: translate(0, -10px);
 }
 
-.yarn-ball {
-  transition: all 1s linear;
+.cat-tail {
+  transition: all .5s linear;
 }
 
-.yarn-ball:hover {
-  transform: rotate(10deg);
+header:hover .cat-tail {
+  transform: translate(0, -20px);
+  transform-origin: bottom right;
+}
+
+@keyframes spin {
+
+  0% { transform: rotate(0deg); }
+
+  100% { transform: rotate(360deg); }
+
+}
+
+.yarn-ball {
+  transform-origin: center;
+  animation: spin 2s infinite linear;
 }
 
 .blue-section .st0{fill:#603913;}
@@ -77,9 +91,9 @@ body {
 .white-section .st0{fill:#F1F2F2;}
 .white-section .st1{fill:none;}
 .white-section .st2{fill:none;stroke:#000000;stroke-width:0.8509;stroke-miterlimit:10;}
-.white-section .st3{fill:#F1F2F2;stroke:#000000;stroke-width:0.8509;stroke-miterlimit:10;}
-.white-section .st4{fill:#FFFFFF;}
-.white-section .st5{opacity:0.45;fill:#FFFFFF;}
+.white-section .st3{fill:#FFFFFF;}
+.white-section .st4{opacity:0.45;fill:#FFFFFF;}
+.white-section .st5{fill:#F1F2F2;stroke:#000000;stroke-width:0.8509;stroke-miterlimit:10;}
 
 .orange-section .st0{fill:#F15A29;}
 .orange-section .st1{fill:none;}
