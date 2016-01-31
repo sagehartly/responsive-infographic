@@ -22,8 +22,20 @@ body {
   margin: 0;
 }
 
-.blue-section, .green-section {
-  width: 100%;
+.cat-arm {
+  transition: all .5s linear;
+}
+
+.cat-section:hover .cat-arm {
+  transform: translate(0, -10px);
+}
+
+.yarn-ball {
+  transition: all 1s linear;
+}
+
+.yarn-ball:hover {
+  transform: rotate(10deg);
 }
 
 .blue-section .st0{fill:#603913;}
@@ -82,7 +94,6 @@ body {
 
 .cat-section .st0{fill:#FBB040;}
 .cat-section .st1{fill:none;}
-
 
 .header .st0{fill:#F15A29;}
 .header .st1{fill:#00A651;}
