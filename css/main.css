@@ -57,7 +57,7 @@ header:hover .cat-tail {
 }
 
 .red-bar, .green-bar, .blue-bar, .yellow-bar {
-  float:left;
+  float: left;
   width: 25%;
   height: 1.5em;
 }
@@ -368,7 +368,8 @@ header:hover .cat-tail {
 .header .st0 {
   fill: none;
 }
- .st1 {
+
+.st1 {
   fill: #fbb040;
 }
 
@@ -390,7 +391,7 @@ header:hover .cat-tail {
 
 .header .st5 {
   fill: none;
-  stroke: #ffffff;
+  stroke: #fff;
   stroke-width: 0.6335;
   stroke-miterlimit: 10;
 }
