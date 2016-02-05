@@ -93,7 +93,7 @@ header:hover .cat-tail {
 
 .blue-section .st1 {
   opacity: 0.45;
-  fill: #ffffff;
+  fill: #fff;
 }
 
 .blue-section .st2 {
@@ -102,7 +102,7 @@ header:hover .cat-tail {
 
 .blue-section .st3 {
   fill: none;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.989;
   stroke-miterlimit: 10;
 }
@@ -112,12 +112,12 @@ header:hover .cat-tail {
 }
 
 .blue-section .st5 {
-  fill: #ffffff;
+  fill: #fff;
 }
 
 .blue-section .st6 {
   fill: none;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.8509;
   stroke-miterlimit: 10;
 }
@@ -128,7 +128,7 @@ header:hover .cat-tail {
 
 .blue-section .st8 {
   fill: #1c75bc;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.8509;
   stroke-miterlimit: 10;
 }
@@ -139,7 +139,7 @@ header:hover .cat-tail {
 
 .green-section .st1 {
   fill: none;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.8509;
   stroke-miterlimit: 10;
 }
@@ -149,7 +149,7 @@ header:hover .cat-tail {
 }
 
 .green-section .st3 {
-  fill: #ffffff;
+  fill: #fff;
 }
 
 .green-section .st4 {
@@ -209,7 +209,7 @@ header:hover .cat-tail {
 
 .green-section .st14 {
   fill: #00a651;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.8509;
   stroke-miterlimit: 10;
 }
@@ -224,12 +224,12 @@ header:hover .cat-tail {
 }
 
 .grey-section .st2 {
-  fill: #ffffff;
+  fill: #fff;
 }
 
 .grey-section .st3 {
   fill: none;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.8509;
   stroke-miterlimit: 10;
 }
@@ -256,7 +256,7 @@ header:hover .cat-tail {
 
 .grey-section .st8 {
   fill: #a7a9ac;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.8509;
   stroke-miterlimit: 10;
 }
@@ -272,23 +272,23 @@ header:hover .cat-tail {
 
 .white-section .st2 {
   fill: none;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.8509;
   stroke-miterlimit: 10;
 }
 
 .white-section .st3 {
-  fill: #ffffff;
+  fill: #fff;
 }
 
 .white-section .st4 {
   opacity: 0.45;
-  fill: #ffffff;
+  fill: #fff;
 }
 
 .white-section .st5 {
   fill: #f1f2f2;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.8509;
   stroke-miterlimit: 10;
 }
@@ -308,14 +308,14 @@ header:hover .cat-tail {
 
 .orange-section .st3 {
   fill: none;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.8509;
   stroke-miterlimit: 10;
 }
 
 .orange-section .st4 {
   fill: none;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 8;
   stroke-linecap: round;
   stroke-miterlimit: 10;
@@ -331,28 +331,28 @@ header:hover .cat-tail {
 
 .orange-section .st6 {
   fill: #f15a29;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 1.3167;
   stroke-miterlimit: 10;
 }
 
 .orange-section .st7 {
   fill: none;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 1.3167;
   stroke-miterlimit: 10;
 }
 
 .orange-section .st8 {
   fill: none;
-  stroke: #000000;
+  stroke: #000;
   stroke-linecap: round;
   stroke-miterlimit: 10;
 }
 
 .orange-section .st9 {
   fill: #f15a29;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 0.8509;
   stroke-miterlimit: 10;
 }
@@ -374,7 +374,7 @@ header:hover .cat-tail {
 
 .header .st2 {
   fill: none;
-  stroke: #ffffff;
+  stroke: #fff;
   stroke-width: 1.2671;
   stroke-linecap: round;
   stroke-miterlimit: 10;
