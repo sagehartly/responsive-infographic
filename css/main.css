@@ -47,10 +47,26 @@ header:hover .cat-tail {
 
 }
 
-.yarn-ball {
-  transform-origin: center;
+.yarn-ball-green-bottom {
+  transform-origin: 303px 123px;
   animation: spin 2s infinite linear;
 }
+
+.yarn-ball-green-top {
+  transform-origin: 303px 72px;
+  animation: spin 2s infinite linear;
+}
+
+.yarn-ball-blue-top {
+  transform-origin: 46px 72px;
+  animation: spin 2s infinite linear;
+}
+
+.yarn-ball-blue-bottom {
+  transform-origin: 46px 124px;
+  animation: spin 2s infinite linear;
+}
+
 
 .cat-section {
   padding-right: 0.75em;
