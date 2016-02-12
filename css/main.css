@@ -22,6 +22,12 @@ body {
   margin: 0;
 }
 
+svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 .cat-arm {
   transition: all .5s linear;
 }
